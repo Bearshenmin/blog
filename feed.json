@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "雞排飯好吃的Blog",
+    "description": "",
+    "home_page_url": "https://bearshenmin.github.io/blog",
+    "feed_url": "https://bearshenmin.github.io/blog/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "雞排飯好吃"
+    },
+    "items": [
+    ]
+}
